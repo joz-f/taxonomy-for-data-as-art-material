@@ -1,0 +1,20 @@
+* Real-time: Data that is created, captured and disseminated in an immediate* time-frame relative to the context of its use; changes over time *immediate assumes some minimal latency. a) smart-meter reporting electricity usage every 30 seconds b) feeds from sensors
+* Streamed: The technical means of delivering real-time data as a contiguous stream. The primary use-cases are where there is no requirement for data storage, or that the data-sets involved are too large to be manipulated in any other manner & a) live or archived video or audio b) data-sets that only shards are required of at any one time
+* Static: Data which does not change once created (but can get added to over time) & historical global population size
+* Retrieved: Data made available only on request (by machine or user) & weather data for the past 24 hours as a single CSV file
+* Historic: Data which forms a permanent archive, grows but does not change & the British Library's sound archive index 
+* Live: Data which is, or was, captured in real-time a) a football match on TV b) animal tracking data
+* Temporal: a) data which is time-based in its nature b) data which is relevant to a specific time c) data which may only exist for a short time period a) the value of a grain of rice over time b) the average temperature during an eclipse c) the radio signals received from an exploding star
+* Spatial: Data describing, is relevant to, or is derived from a space or geographic area a) GPS coordinates from a walk around a city b) the number of people visiting the Tate Modern art gallery} \\\hline
+* Metadata: Data about data & the number of items in a database
+* Life (biological): Data whose origin is directly linked to something that is alive and without conscious origin (i.e not from a human typing). Often from sensors & \parbox[t]{5cm}{a) species migration reported by a sensor \\b) a heart-rate monitor output c) a bird-call
+* Life (environmental): Data whose origin is directly linked to the natural world. Often from sensors & ocean temperature
+* Personal (private): Data produced by or about an individual. Has very limited access a) Google's search analysis profile of a non-anonymised individual's interests b) International travel logs held at border controls
+* Personal (public): Data produced by or about an individual that is accessible by some, if not all, of the general public a) family photos publicly tagged on Flickr b) your social network feed
+* Social: Data produced by or about a social group or society & life expectancy in the UK
+* Governmental: Data produced by or about a government or ruling authority & the economy of the eurozone
+* Commercial: Data produced by or about a corporate entity & company financial information for the past 10 years
+* Object & data whose origin is a physical object or device (re: Internet of Things) a) a fridge's energy use b) a CCTV camera
+* Processed: Data which has been calculated, or altered in some way (e.g. by an algorithm) & a) a sonification of stock market figuresb) aggregated statistics
+* Generated: Data created by a software program a) algorithmic music b) cellular automaton
+* Anecdata: Anecdotal information gathered and then presented as fact & a collection of comments on a product website
