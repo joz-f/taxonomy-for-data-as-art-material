@@ -86,7 +86,7 @@ Type: Streamed
 Additional Dataset Parameters
 * There are aspects of data that are useful to explore in the process of understanding datasets which are not included in the vocabulary. These tend toward more technical descriptions and are used by archivists and preservation experts. The W3C Data on the Web Best Practices Use Cases & Requirements Note, http://www.w3.org/TR/dwbp-ucr/ (accessed 20 June 2015), recommends these elements are used for defining data: domains, obligation/motivation, usage, quality, lineage, size, type/format, rate of change, data lifespan, potential audience. We recommend considering the following, particularly for retrieval, maintenance, and archival purposes of the artwork.
 
-* Accuracy: how exact are the individual data points (e.g. If it is real-time data is there latency to acknowledge)
+* Accuracy: how exact are the individual data points. e.g. If it is real-time data is there latency to acknowledge
 * Utility: does the data have potential to provide utility by providing new content or insight, is this important to the work?
 * Provenance: scientific datasets should be reproducible, others should be collated from, or by, reliable sources. Any bias should be declared or detected.
 * Context: does this dataset provide meaning through its relationships to other datasets (for comparative interest, for ratification)?
