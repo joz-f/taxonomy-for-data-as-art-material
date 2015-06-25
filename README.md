@@ -85,14 +85,12 @@ Type: Streamed
 # Notes
 Additional Dataset Parameters
 * There are aspects of data that are useful to explore in the process of understanding datasets which are not included in the vocabulary. These tend toward more technical descriptions and are used by archivists and preservation experts. The W3C Data on the Web Best Practices Use Cases & Requirements Note, http://www.w3.org/TR/dwbp-ucr/ (accessed 20 June 2015), recommends these elements are used for defining data: domains, obligation/motivation, usage, quality, lineage, size, type/format, rate of change, data lifespan, potential audience. We recommend considering the following, particularly for retrieval, maintenance, and archival purposes of the artwork.
-
-* Accuracy: how exact are the individual data points. e.g. If it is real-time data is there latency to acknowledge
-* Utility: does the data have potential to provide utility by providing new content or insight, is this important to the work?
-* Provenance: scientific datasets should be reproducible, others should be collated from, or by, reliable sources. Any bias should be declared or detected.
-* Context: does this dataset provide meaning through its relationships to other datasets (for comparative interest, for ratification)?
-* Relevancy: are the data points relevant to each other, to someone or something (e.g. a machine)?
 * Accessibility & how and by whom can the dataset be accessed and used (licensing rights, availability, database rights), and is this reliable and future-proof?
-* Format: what is the structure and format (technical data structure and/or data definition, distribution)?
+* Accuracy: how exact are the individual data points. e.g. If it is real-time data is there latency to acknowledge
+* Context: does this dataset provide meaning through its relationships to other datasets (for comparative interest, for ratification)?
 * Dimensionality & how many dimensions are represented (e.g. a point against time, a number of parameters)?
+* Format: what is the structure and format (technical data structure and/or data definition, distribution)?
+* Provenance: scientific datasets should be reproducible, others should be collated from, or by, reliable sources. Any bias should be declared or detected.
+* Relevancy: are the data points relevant to each other, to someone or something (e.g. a machine)?
 * Size: The order of magnitude of the number of data points, the sample size. Examples: 1, or 1 million). Often imprecisely referred to as large (big) data or small data.
-
+* Utility: does the data have potential to provide utility by providing new content or insight, is this important to the work?
