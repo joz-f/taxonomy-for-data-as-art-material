@@ -11,7 +11,7 @@ This is version 1.1. Your comments, critiques, suggestions are very welcome.
 * Of non-living: Object
 * Of social context: Commercial; Personal; Social; State
 * Of licence: Closed; Open; Shared
-* Of time or space: Live; Real-time; Geospatial; Static; Temporal
+* Of time/space: Geospatial; Live; Real-time; Static; Temporal
 * Of type: Anecdata; Causal; Generated; Metadata; Processed; Retrieved; Streamed
 
 # Term Definitions
@@ -46,14 +46,14 @@ Licence: Open
 Licence: Shared 
 * Shared data is data available to a specific group of people for a specific purpose. Examples: a) the electoral register; b) anonymized supermarket shopping patterns
 
+Time/Space: Geospatial
+* Data describing, is relevant to, or is derived from a space or geographic area. Examples: a) GPS coordinates from a cross-country walk; b) the number of people visiting the Tate Modern art gallery; c) the area of a baseball pitch; d) longitude and latitude.
+
 Time/Space: Live
 * Data which is, or was, captured in real-time. The recording does not necessarily get played-back at the same rate, or in the same moment. Examples: a) a football match on TV; b) animal tracking data
 
 Time/Space: Real-time
-* Data that is created, captured and disseminated in an immediatefootnote{immediate is approximate, and assumes some minimal system latency. In a video stream end-to-end latency would be due to encoding, post-processing, network processing, buffering, decoding, and pre-processing (see http://www.cast-inc.com/blog/white-paper-understanding-and-reducing-latency-in-video-compression-systems accessed 20 June 2015. For acceptable latency that ensure user engagement varies, refer to Jakob Nielsen time-frame relative to the context of its use; it changes over time. Examples: a) smart-meter reporting electricity usage every 30 seconds (real-time data acquisition with a relevant-time display); b) feeds from sensors such as a webcam on a birds nest, a GPS location of a mobile phone, or a humidity reading in an gallery space.
-
-Time/Space: Geospatial
-* Data describing, is relevant to, or is derived from a space or geographic area. Examples: a) GPS coordinates from a cross-country walk; b) the number of people visiting the Tate Modern art gallery; c) the area of a baseball pitch; d) longitude and latitude.
+* Data that is created, captured and disseminated in an immediate time-frame relative to the context of its use; it changes over time. Examples: a) smart-meter reporting electricity usage every 30 seconds (real-time data acquisition with a relevant-time display); b) feeds from sensors such as a webcam on a birds nest, a GPS location of a mobile phone, or a humidity reading in an gallery space.
 
 Time/Space: Static
 * Data in which the items do not change once created, dataset grows over time. Includes historical datasets and archive indexes. Examples: a) historical global population size; b) the sound archive at the British Library.
