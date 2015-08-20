@@ -3,7 +3,7 @@ A concise taxonomy for describing data used as an art material
 
 Released under the Attribution 4.0 International Creative Commons license
 
-This is version 1.1. Your comments, critiques, suggestions are very welcome.
+This is version 2.0 Your comments, critiques, suggestions are very welcome.
 
 # Summary 
 
