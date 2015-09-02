@@ -13,6 +13,7 @@ This is version 2.0 Your comments, critiques, suggestions are very welcome.
 * Of licence: Closed; Open; Shared
 * Of time/space: Geospatial; Live; Real-time; Static; Temporal
 * Of type: Anecdata; Causal; Generated; Metadata; Processed; Retrieved; Streamed
+* Of disclosure: Anonymised; Identifiable; Unknown
 
 # Term Definitions
 
@@ -41,7 +42,7 @@ Licence: Closed
 * Closed data is generally only accessible to people within an organisation or to certain individuals. Examples: a) company personnel files; b) national security documents
 
 Licence: Open 
-* Open data can be accessed, used, and shared by anyone. Examples: a) state-owned weather records, b) earthquake monitoring data
+* Open data can be accessed, used, and shared by anyone. Examples: a) publicly funded research data; b) earthquake monitoring data
 
 Licence: Shared 
 * Shared data is data available to a specific group of people for a specific purpose. Examples: a) the electoral register; b) anonymized supermarket shopping patterns
@@ -81,6 +82,16 @@ Type: Retrieved
 
 Type: Streamed
 * The technical means of delivering real-time data as a contiguous stream. The primary use-cases are where there is no requirement for data storage, or that the data-sets involved are too large to be manipulated in any other manner (the entire Twitter back catalogue). Examples: a) real-time audio and video from a carnival procession; b) on-demand replay of a film from 1960; c) music playing from a digital radio.
+
+Of Disclosure: Anonymised
+* Data that has had any identifiable in- formation about a person, animal, or thing removed. Examples: a) CCTV camera footage containing people which have been blurred or obfuscated; b) all bicycle hire users across a city with user IDs and names removed.
+
+Disclosure: Identifiable
+* Data in which the direct source within it (person, animal, or thing) can be identified. Examples: a) a Facebook data export including friend names; b) a set of mobile phone numbers with owner address details.
+
+Of Disclosure: Unknown
+* Data which contains information about a person, animal, or thing but in which it is not clear if it is adequately anonymised. Examples: a) a live Twitter feed containing some geolocated photos of people and animals; b) a sound recording from a public space that includes ambient conversation.
+
 
 # Notes
 Additional Dataset Parameters
